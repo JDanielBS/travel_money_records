@@ -1,0 +1,23 @@
+{
+    "fecha_de_inicio": "2024-06-11T00:00:00",
+    "fecha_de_finalizacion": "2024-07-11T00:00:00",
+    "presupuesto_diario": 2000,
+    "total_dias_de_viaje": 30,
+    "gasto_total": 3633300,
+    "gastos_por_dia": [
+        {
+            "dia": 10,
+            "fecha": "2024-06-20",
+            "presupuesto": 1300,
+            "gastos_tarjeta": 700,
+            "gastos_efectivo": 0
+        },
+        {
+            "dia": 31,
+            "fecha": "2024-07-11",
+            "presupuesto": 1800,
+            "gastos_tarjeta": 0,
+            "gastos_efectivo": 200
+        }
+    ]
+}
